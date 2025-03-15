@@ -1,5 +1,6 @@
 # cloud-images
-store images that i can request 
+store images that you can request 
+[how to do](https://github.com/AssassinZF/markdown-image-tool)
 
 ## use the images method
 `https://raw.githubusercontent.com/你的账号名/仓库名/master/图片名.png`
